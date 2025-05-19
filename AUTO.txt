@@ -1,5 +1,0 @@
-REGISTRACIJA: BG1523AA
-MARKA: Astra
-MODEL: Opel
-GODINA_PROIZVODNJE: 1999
-====================
