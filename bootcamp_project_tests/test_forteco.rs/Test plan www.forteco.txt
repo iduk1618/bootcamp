@@ -1,0 +1,4 @@
+Manuelni testvi:
+1. Navigacioni meni
+2. Odeljak Usluge
+3. Odeljak Reference

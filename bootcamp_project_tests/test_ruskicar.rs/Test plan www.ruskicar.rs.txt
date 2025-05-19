@@ -1,0 +1,5 @@
+Manuelni testvi:
+1. Homepage
+2. Navigation menu
+3. Menu category
+4. Product image

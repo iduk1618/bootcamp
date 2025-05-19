@@ -1,0 +1,23 @@
+Automatski testovi:
+1. Pocetna stranica
+2. Pretraga
+3. Prikaz proizvoda
+4. Dodavanje u korpu
+5. Izbacivanje iz korpe
+6. Filter proizvoda u galeriji
+7. Brzo dodavanje u korpu
+8. Uvecavanje kolicine proizvoda u korpi
+9. Umanjivanje kolicine proizvoda u korpi
+10. Forma za prijavu
+11. Forma za registraciju
+12. Filter proizvoda na strani "akcija"
+13. Futer Facebook link
+14. Futer Instagram link
+15. Forma ocene proizvoda
+
+Manuelni testovi:
+1. Ispravnost svih linkova u footer sekciji
+2. Vizuelna provera galerije sajta
+3. Vizuelna provera "FAQ" sekcije
+4. Funkcionalnst brojcanika na korpi
+5. Sortiranje proizvoda

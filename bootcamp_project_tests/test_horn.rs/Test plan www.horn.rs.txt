@@ -1,0 +1,7 @@
+Manuelni testvi:
+1. Forma za mailing listu
+2. Popularne kategorije
+3. Pretraga
+4. Forma za login
+5. Forma za registraciju
+6. Gramatika landing page
